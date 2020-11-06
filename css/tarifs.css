@@ -1,0 +1,72 @@
+
+table {
+    text-align: center;
+    color: black;
+    font-size: 2.5em;
+    font-weight: 300;
+}
+
+th {
+    font-size: 1em;
+    font-weight: 100;
+    padding: 2% 0;
+}
+td {
+    font-size: 0.9em;
+    background-color: white;
+
+}
+span {
+    color: #55371E;
+}
+
+p {
+    font-size: 0.6em;
+    font-weight: 100;
+    margin: 0;
+    padding: 0;
+}
+
+.alert-info {
+    text-align: center;
+    font-size: 1.8rem;
+    font-weight: 100;
+    width: 80%;
+    margin-bottom: 5%;
+}
+
+.divBrown {
+    display: flex;
+    justify-content: center;
+    padding: 5% 0 2% 0;
+}
+
+.ages {
+    background-color: #C1C1B3;
+    width: 500px;
+}
+.ages-domaine{
+    padding: 2% 0;
+    font-size: 1em;
+    font-weight: 100;
+    background-color: #E5E5E5;
+}
+
+.espace {
+    height: 80px;
+
+}
+.races {
+    background-color: #A4A90E;
+    width: 500px;
+}
+
+.title {
+    margin: 3% 0   ;
+}
+
+.green {
+    color: #A4A90E;
+}
+
+

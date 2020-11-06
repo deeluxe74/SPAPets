@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+}
+
+.title {
+    text-align: center;
+    color: white;
+    margin: 0;
+    padding: 1.5% 0;
+    font-size: 5em;
+    font-weight: 300;
+    letter-spacing: 0.08em;
+}
+
+.Global{
+    z-index: 1;
+}
+
+.divBrown {
+    background-color: #55371E;
+}
+
+.divGreen {
+    background-color: #A4A90E;
+}
+.green {
+    color: #A4A90E;
+}
+
+.brown {
+    color: #55371E; 
+}

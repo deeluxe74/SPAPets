@@ -1,0 +1,58 @@
+span {
+    color: #A4A90E;
+}
+
+h1, h2 {
+    color: #55371E ;
+}
+
+h2 {
+    font-size: 4rem;
+    font-weight: 100;
+    margin: 8% 0 ;
+}
+
+p{
+    font-weight: 300;
+    padding: 0 7%;
+    margin-bottom: 5%;
+}
+
+.greenBrown {
+    display: flex;
+    color: white;
+    font-size: 2em;
+    text-align: center;
+    
+}
+.horaire {
+    color: #A4A90E;
+}
+.divBrown {
+    padding-top: 2%;
+    padding-bottom: 5%;
+    width: 50%;
+}
+.divGreen {
+    padding-top: 2%;
+    padding-bottom: 5%;
+    width: 50%;
+}
+.title {
+    margin: 3% 0;
+    color: #55371E;
+}
+
+.pastRight {
+    font-size: 4rem;
+    font-weight: 100;
+    color: #A4A90E;
+    text-align: right;
+}
+
+.pastLeft {
+    font-size: 4rem;
+    font-weight: 100;
+    color: #55371E;
+    text-align: left;
+}

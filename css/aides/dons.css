@@ -1,0 +1,24 @@
+h2 {
+    color: red;
+    font-size: 2em;
+}
+
+h3 {
+    color: red;
+    font-size: 2em;
+    text-align: center;
+    margin-top: 5%;
+    margin-bottom: 10%;
+}
+
+p{
+    text-align: justify;
+    font-size: 1.3em;
+    font-weight: 300;
+    margin: 4% 0;
+}
+.title {
+    margin: 3% 0;
+    color: #55371E;
+}
+

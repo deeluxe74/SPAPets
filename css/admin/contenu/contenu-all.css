@@ -1,0 +1,65 @@
+
+
+.container {
+    font-size: 1.5em;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-weight: 100;
+}
+
+.badge {
+    border-radius: 25px;
+    font-size: 3em;
+    margin: 5% auto;
+    padding: 2% 4%;
+    
+    margin-left: 20%;
+    font-weight: 100;
+}
+
+
+.btnAlign {
+    display: flex;
+    justify-content: center;
+}
+
+.formulaire {
+    padding-left: 10% ;
+}
+
+.form-control-lg {
+    width: auto;
+    margin: 2% 0;
+}
+
+
+.btn-primary {
+    font-size: 1.5em;
+    margin: 4% 0;
+    width: 20%;
+}
+
+.btn-danger {
+    font-size: 1em;
+    margin: 10% 0;
+
+}
+
+.btn-warning {
+    font-size: 1em;
+    margin: 2% 1%;
+
+}
+
+.actualiteSection {
+    margin-left: 10%;
+}
+
+.returnBtn {
+    width: 10%;
+    margin: 0;
+    margin-bottom: 4%;
+    font-size: 0.9em;
+    padding: 0.5%;
+}

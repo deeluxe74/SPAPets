@@ -1,0 +1,52 @@
+h2 {
+    color: red;
+    font-size: 1.8em;
+    font-weight: 900;
+    margin-top: 2%;
+}
+
+h3 {
+    color: red;
+    font-size: 1.7em;
+    text-align: center;
+    font-weight: 800;
+    margin: 5% 0 2% 0;
+}
+
+p{
+    text-align: justify;
+    font-size: 1.3em;
+    font-weight: 300;
+}
+
+span {
+    color: red;
+}
+
+strong {
+    color: #A4A90E;
+}
+.title {
+    margin: 4% 0;
+    font-size: 4em;
+    color: #55371E;
+}
+.brown {
+    background-color: #55371E;
+}
+.green {
+    background-color: #A4A90E;
+}
+.titleFournitures{
+    min-width: 25%;
+    text-align: center;
+    color: white;
+    padding: 1% 2%;
+    display: inline-block;
+    font-weight: 900;
+    border-radius: 25px;
+    font-size: 2em;
+    margin-bottom: 2%;
+    margin-top: 7%;
+    
+}

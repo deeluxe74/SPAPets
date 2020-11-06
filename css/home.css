@@ -1,0 +1,99 @@
+.carousel-item {
+    transition: all 1.2s ease-in;
+}
+
+.carousel-inner img {
+    height: 90vh;
+}
+
+.divdeen {
+    background-color: rgba(0, 0, 0, 0.87);
+    padding: 6% 0;
+
+}
+/* CARDS PRESENTATION */
+.pets {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+
+.pets img {
+    object-position: 0 20%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.pets .card {
+    width: 500px;
+    height: 330px;
+    border: none;
+
+    
+}
+.pets .card:hover {
+    opacity: 0.6;
+
+    
+}
+
+.pets .card a {
+    color: none;
+    text-decoration: none;
+}
+
+.pets .card-title{
+    text-align: center;
+    letter-spacing: 6px;
+    padding: 8.3% 0;
+    margin-top: 100%;
+    margin-bottom: 0;
+    color: rgb(255, 255, 255);
+    font-size: 1.4em;
+    font-weight: 100;
+    
+}
+
+.pets .card-img-overlay {
+    padding: 0;
+}
+
+.pets .filterOpacity  {
+    background-color: rgba(0, 0, 0, 0.822);
+
+}
+
+
+
+
+
+
+
+
+.divBrown .container-card {
+    padding: 5%;
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.divBrown .card {
+    margin: 3% 5%;
+    width: 500px;
+    border-radius: 25px;
+    box-shadow: 12px 22px 6px rgba(0, 0, 0, 0.445);
+}
+
+.divBrown .card-header {
+    font-size: 2em;
+    font-weight: 100;
+    color: #d4081c;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.322)
+}
+.divBrown .card-text {
+    padding: 0 2%;
+    font-size: 1.2em;
+    text-align: justify;
+}
